@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @delasimensah
-- 👀 I’m interested in JavaScript, React and all things Web Development.
-- 💞️ I’m looking to collaborate on interesting frontend projects
+- 👀 I’m interested in JavaScript, React and all things Fornt-end Development.
+- 💞️ I’m looking to collaborate on interesting front-end projects
 - 📫 How to reach me mensadelasi@gmail.com
 
 <!---
