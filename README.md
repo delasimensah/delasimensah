@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @delasimensah
-- 👀 I’m interested in JavaScript, React and all things Fornt-end Development.
+- 👋 Hi, I’m Delasi Mensah
+- 👀 I’m interested in JavaScript, React and all things Front-end Development.
 - 💞️ I’m looking to collaborate on interesting front-end projects
-- 📫 How to reach me mensadelasi@gmail.com
+- 📫 You can reach me at mensadelasi@gmail.com
 
 <!---
 delasimensah/delasimensah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
