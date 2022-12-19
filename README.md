@@ -1,6 +1,6 @@
 - 👋 Hi, my name is Delasi Mensah
 - 👀 I’m interested in JavaScript, React, React Native and all things Front-end Development.
-- 💞️ I’m looking to collaborate on cool and interesting front-end projects.
+- 💞️ I’m looking to collaborate on cool and interesting projects.
 - 📫 You can reach me at mensadelasi@gmail.com.
 - Also connect with me on linkedIn at https://www.linkedin.com/in/delasi-mensah/.
 
