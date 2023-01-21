@@ -1,5 +1,5 @@
 - 👋 Hi, my name is Delasi Mensah
-- 👀 I’m interested in JavaScript, React, React Native and all things Front-end Development.
+- 👀 I’m interested in JavaScript, React, and all things Front-end Development.
 - 💞️ I’m looking to collaborate on cool and interesting projects.
 - 📫 You can reach me at mensadelasi@gmail.com.
 
