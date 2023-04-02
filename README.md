@@ -1,6 +1,6 @@
 - 👋 Hi, my name is Delasi Mensah
-- 👀 I’m interested in JavaScript, Node, React, and all things Front-end Development.
-- 💞️ I’m looking to collaborate on cool and interesting projects.
+- 👀 I’m interested in JavaScript, TypeScript, React, React Native, Node, and all things Front-end Development.
+- 💞️ I’d be happy to collaborate on cool and interesting projects.
 - 📫 You can reach me at mensadelasi@gmail.com.
 
 <a href="https://app.daily.dev/_delasimensah"><img src="https://api.daily.dev/devcards/39ce3dc2d06d450b981cdb595f6e2d5f.png?r=5st" width="400" alt="Delasi Mensah's Dev Card"/></a>
