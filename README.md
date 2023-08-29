@@ -2,7 +2,7 @@
 - 👀 I’m interested in JavaScript, TypeScript, React, React Native, Node, and all things front-end development.
 - 💞️ I’d be happy to collaborate on cool and interesting projects.
 - 📫 You can reach me at mensadelasi@gmail.com.
-- 💻 You can also checkout my [portfolio](https://delasimensah.com/)
+- 💻 You can also checkout my [portfolio](https://delasimensah.netlify.app/)
 
 <a href="https://app.daily.dev/_delasimensah"><img src="https://api.daily.dev/devcards/39ce3dc2d06d450b981cdb595f6e2d5f.png?r=5st" width="400" alt="Delasi Mensah's Dev Card"/></a>
 
