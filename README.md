@@ -1,4 +1,4 @@
-- 👋, my name is Delasi Mensah. I am a full-stack developer with 3+ years experience collaborating remotely with agencies and startups to craft digital solutions.
+- 👋, my name is Delasi Mensah. I am a full-stack developer with 4 years experience collaborating remotely with agencies and startups to craft digital solutions.
 - 👀 I specialize in JavaScript, TypeScript, React, React Native, Node, and all things front-end development.
 - 💞️ Always looking to collaborate on cool and interesting projects.
 - 📫 You can reach me at mensadelasi@gmail.com.
