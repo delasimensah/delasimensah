@@ -4,7 +4,7 @@
 - 📫 You can reach me at mensadelasi@gmail.com.
 - 💻 You can also checkout my [portfolio](https://delasimensah.com/)
 
-<a href="https://app.daily.dev/_delasimensah"><img src="https://api.daily.dev/devcards/39ce3dc2d06d450b981cdb595f6e2d5f.png?r=5st" width="400" alt="Delasi Mensah's Dev Card"/></a>
+<a href="https://app.daily.dev/_delasimensah3891185480476754158115353"><img src="https://api.daily.dev/devcards/v2/nbQsQhGk9aHSz2uPkP8Q7.png?r=5u5" width="356" alt="Delasi Mensah's Dev Card"/></a>
 
 <!---
 delasimensah/delasimensah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
