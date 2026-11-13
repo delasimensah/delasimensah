@@ -8,6 +8,7 @@ I take ideas from rough sketch to shipped product. 5+ years building for iOS, An
 Deepest in TypeScript, React, React Native and Next.js. Based in Accra 🇬🇭, remote, overlapping European hours.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-delasimensah.com-111827?style=for-the-badge&logo=safari&logoColor=white)](https://delasimensah.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Delasi%20Mensah-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/delasi-mensah/)
 [![Email me](https://img.shields.io/badge/-Email%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mensadelasi@gmail.com)
 
 </div>
