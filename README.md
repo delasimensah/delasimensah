@@ -8,7 +8,6 @@ I turn rough ideas into polished iOS, Android and web products.
 5+ years shipping apps from first sketch to App Store. Based in Accra 🇬🇭, working remotely.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-delasimensah.com-111827?style=for-the-badge&logo=safari&logoColor=white)](https://delasimensah.com/)
-[![DM Studios](https://img.shields.io/badge/Studio-DM%20Studios-6366F1?style=for-the-badge)](https://www.dmstudiosgh.com/)
 [![Email](https://img.shields.io/badge/Email-Say%20hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mensadelasi@gmail.com)
 
 </div>
@@ -18,8 +17,8 @@ I turn rough ideas into polished iOS, Android and web products.
 ## 👋 About
 
 - 📱 Led the frontend of **[Aria](https://ariamusic.com/)** (2024–2026), a music-streaming app with **19,000+ users** and a **4.9★ App Store rating**
-- 🏢 Founder of **DM Studios**, building custom web and mobile software for businesses
-- 💳 Deep in subscriptions, payments and offline-friendly mobile UX
+- 🏢 Founder of **[DM Studios](https://www.dmstudiosgh.com/)**, building custom web and mobile software for businesses
+- 💳 Built in-app subscriptions with **RevenueCat**, including moving Aria from per-artist plans to a single shared membership
 - 🤖 Building with AI daily, and learning to ship AI features that keep a human in control
 - 🌍 Open to remote contract and full-time roles where I can own a product from idea to release
 
@@ -50,8 +49,6 @@ More at [dmstudiosgh.com/work](https://www.dmstudiosgh.com/work).
 ## 📫 Let's talk
 
 If you're building a mobile or web product and want someone who cares about the product as much as the code, I'd love to hear about it.
-
-**[mensadelasi@gmail.com](mailto:mensadelasi@gmail.com)** · **[delasimensah.com](https://delasimensah.com/)**
 
 <div align="center">
 
