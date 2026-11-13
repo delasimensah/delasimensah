@@ -17,7 +17,7 @@ I turn rough ideas into polished iOS, Android and web products.
 
 ## 👋 About
 
-- 📱 Frontend lead on **Aria**, a music-streaming app with **19,000+ users** and a **4.9★ App Store rating**
+- 📱 Led the frontend of **[Aria](https://ariamusic.com/)** (2024–2026), a music-streaming app with **19,000+ users** and a **4.9★ App Store rating**
 - 🏢 Founder of **DM Studios**, building custom web and mobile software for businesses
 - 💳 Deep in subscriptions, payments and offline-friendly mobile UX
 - 🤖 Building with AI daily, and learning to ship AI features that keep a human in control
@@ -42,7 +42,7 @@ I turn rough ideas into polished iOS, Android and web products.
 
 | | |
 |---|---|
-| **🎵 Aria** <br> Music streaming where fans pay to support independent artists. I led the frontend across iOS, Android and web: playback, uploads, search, and a single membership that replaced per-artist subscriptions. <br><br> `React Native` `Expo` `Next.js` `RevenueCat` | **🎧 [Kindred](https://www.dmstudiosgh.com/work/kindred)** <br> My own end-to-end take on a fan-supported music product: mobile app, artist site, payments and backend, with a live demo and walkthrough video. <br><br> `React Native` `Next.js` `Convex` |
+| **🎵 [Aria](https://ariamusic.com/)** <br> Music streaming where fans pay to support independent artists. I led the frontend across iOS, Android and web: playback, uploads, search, and a single membership that replaced per-artist subscriptions. <br><br> `React Native` `Expo` `Next.js` `RevenueCat` | **🎧 [Kindred](https://www.dmstudiosgh.com/work/kindred)** <br> My own end-to-end take on a fan-supported music product: mobile app, artist site, payments and backend, with a live demo and walkthrough video. <br><br> `React Native` `Next.js` `Convex` |
 | **🏘️ [Ridgeway](https://www.dmstudiosgh.com/work)** <br> Property-management software with permissions for four distinct roles. <br><br> `Next.js` `Convex` | **📺 Showlog** <br> An iPhone TV tracker with instant optimistic updates and rate-limit-aware syncing. Public repo coming soon. <br><br> `Expo` `Convex` |
 
 More at [dmstudiosgh.com/work](https://www.dmstudiosgh.com/work).
