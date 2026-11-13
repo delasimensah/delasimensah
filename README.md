@@ -1,12 +1,60 @@
-- 👋, my name is Delasi Mensah. I am a full-stack developer with 10 years experience collaborating remotely with agencies and startups to craft digital solutions.
-- 👀 I specialize in JavaScript, TypeScript, React, React Native, Node, and all things front-end development.
-- 💞️ Always looking to collaborate on cool and interesting projects.
-- 📫 You can reach me at mensadelasi@gmail.com.
-- 💻 You can also checkout my [portfolio](https://delasimensah.com/)
+<div align="center">
+
+# Delasi Mensah
+
+### Product Engineer · React, React Native, Next.js & TypeScript
+
+I turn rough ideas into polished iOS, Android and web products.
+5+ years shipping apps from first sketch to App Store. Based in Accra 🇬🇭, working remotely.
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-delasimensah.com-111827?style=for-the-badge&logo=safari&logoColor=white)](https://delasimensah.com/)
+[![DM Studios](https://img.shields.io/badge/Studio-DM%20Studios-6366F1?style=for-the-badge)](https://www.dmstudiosgh.com/)
+[![Email](https://img.shields.io/badge/Email-Say%20hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mensadelasi@gmail.com)
+
+</div>
+
+---
+
+## 👋 About
+
+- 📱 Frontend lead on **Aria**, a music-streaming app with **19,000+ users** and a **4.9★ App Store rating**
+- 🏢 Founder of **DM Studios**, building custom web and mobile software for businesses
+- 💳 Deep in subscriptions, payments and offline-friendly mobile UX
+- 🤖 Building with AI daily, and learning to ship AI features that keep a human in control
+- 🌍 Open to remote contract and full-time roles where I can own a product from idea to release
+
+## 🛠️ Stack
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Convex](https://img.shields.io/badge/Convex-EE342F?style=flat-square)
+![RevenueCat](https://img.shields.io/badge/RevenueCat-F2545B?style=flat-square&logo=revenuecat&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+
+## 🚀 Featured work
+
+| | |
+|---|---|
+| **🎵 Aria** <br> Music streaming where fans pay to support independent artists. I led the frontend across iOS, Android and web: playback, uploads, search, and a single membership that replaced per-artist subscriptions. <br><br> `React Native` `Expo` `Next.js` `RevenueCat` | **🎧 [Kindred](https://www.dmstudiosgh.com/work/kindred)** <br> My own end-to-end take on a fan-supported music product: mobile app, artist site, payments and backend, with a live demo and walkthrough video. <br><br> `React Native` `Next.js` `Convex` |
+| **🏘️ [Ridgeway](https://www.dmstudiosgh.com/work)** <br> Property-management software with permissions for four distinct roles. <br><br> `Next.js` `Convex` | **📺 Showlog** <br> An iPhone TV tracker with instant optimistic updates and rate-limit-aware syncing. Public repo coming soon. <br><br> `Expo` `Convex` |
+
+More at [dmstudiosgh.com/work](https://www.dmstudiosgh.com/work).
+
+## 📫 Let's talk
+
+If you're building a mobile or web product and want someone who cares about the product as much as the code, I'd love to hear about it.
+
+**[mensadelasi@gmail.com](mailto:mensadelasi@gmail.com)** · **[delasimensah.com](https://delasimensah.com/)**
+
+<div align="center">
 
 <a href="https://app.daily.dev/_delasimensah3891185480476754158115353"><img src="https://api.daily.dev/devcards/v2/nbQsQhGk9aHSz2uPkP8Q7.png?r=5u5" width="356" alt="Delasi Mensah's Dev Card"/></a>
 
-<!---
-delasimensah/delasimensah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+</div>
