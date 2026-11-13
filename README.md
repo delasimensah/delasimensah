@@ -8,7 +8,7 @@ I turn rough ideas into polished iOS, Android and web products.
 5+ years shipping apps from first sketch to App Store. Based in Accra 🇬🇭, working remotely.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-delasimensah.com-111827?style=for-the-badge&logo=safari&logoColor=white)](https://delasimensah.com/)
-[![Email](https://img.shields.io/badge/Email-Say%20hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mensadelasi@gmail.com)
+[![Email me](https://img.shields.io/badge/-Email%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mensadelasi@gmail.com)
 
 </div>
 
