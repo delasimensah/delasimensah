@@ -42,7 +42,7 @@ I turn rough ideas into polished iOS, Android and web products.
 
 | | |
 |---|---|
-| **🎵 [Aria](https://ariamusic.com/)** <br> Music streaming where fans pay to support independent artists. I led the frontend across iOS, Android and web: playback, uploads, search, and a single membership that replaced per-artist subscriptions. <br><br> `React Native` `Expo` `Next.js` `RevenueCat` | **🎧 [Kindred](https://www.dmstudiosgh.com/work/kindred)** <br> My own end-to-end take on a fan-supported music product: mobile app, artist site, payments and backend, with a live demo and walkthrough video. <br><br> `React Native` `Expo` `Next.js` `Convex` |
+| **🎵 [Aria](https://ariamusic.com/)** <br> Music streaming where fans pay to support independent artists. I led the frontend across iOS, Android and web: playback, uploads, search, and a single membership that replaced per-artist subscriptions. <br><br> `React Native` `Expo` `Next.js` `RevenueCat` `Supabase` `NestJS` `PostgreSQL` | **🎧 [Kindred](https://www.dmstudiosgh.com/work/kindred)** <br> My own end-to-end take on a fan-supported music product: mobile app, artist site, payments and backend, with a live demo and walkthrough video. <br><br> `React Native` `Expo` `Next.js` `Convex` |
 | **🏘️ [Ridgeway](https://www.dmstudiosgh.com/work)** <br> Property-management software with a mobile app and web app, and permissions for four distinct roles. <br><br> `React Native` `Expo` `Next.js` `Convex` | **📺 Showlog** <br> An iPhone TV tracker with instant optimistic updates and rate-limit-aware syncing. Public repo coming soon. <br><br> `React Native` `Expo` `Convex` |
 
 More at [dmstudiosgh.com/work](https://www.dmstudiosgh.com/work).
